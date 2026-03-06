@@ -1,1 +1,2 @@
-echo "Welcome to sample project of the group"
+echo "Welcome to sample project"
+echo "github"
